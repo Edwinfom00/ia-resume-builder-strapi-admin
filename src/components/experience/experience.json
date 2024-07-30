@@ -23,9 +23,6 @@
     "endDate": {
       "type": "string"
     },
-    "currentlyWorking": {
-      "type": "boolean"
-    },
     "workSummery": {
       "type": "richtext"
     }

@@ -1,8 +1,7 @@
 {
   "collectionName": "components_education_educations",
   "info": {
-    "displayName": "Education",
-    "icon": "stack"
+    "displayName": "Education"
   },
   "options": {},
   "attributes": {
@@ -16,13 +15,13 @@
       "type": "string"
     },
     "startDate": {
-      "type": "date"
+      "type": "string"
     },
     "endDate": {
-      "type": "date"
+      "type": "string"
     },
     "description": {
-      "type": "text"
+      "type": "string"
     }
   }
 }
